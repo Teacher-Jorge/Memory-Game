@@ -22,7 +22,7 @@ body {
 .memory-card {
     display: flex;
     font-size: 1rem;
-    width: 100px;
+    width: 90px;
     height: 100px;
     position: relative;
     margin: 3px;
