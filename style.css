@@ -1,19 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    height: 100vh;
-    background-color: aliceblue;
-    display: flex;
-}
-
 .memory-game {
     width: 440px;
     height: 440px;
-    margin: auto;
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px;
