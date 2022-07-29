@@ -51,7 +51,7 @@ function resetBoard() {
 (function shuffle() {
     cards.forEach(card => {
         let randomPos = Math.floor(Math.random() * 20)
-        card.getElementsByClassName.order = randomPos
+        card.style.order = randomPos
     })
 })()
 
