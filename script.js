@@ -21,7 +21,7 @@ if (firstCard.dataset.framework === secondCard.dataset.framework) {
     setTimeout(() => {
         firstCard.classList.remove('flip')
         secondCard.classList.remove('flip')
-    }, 1500)
+    }, 1000)
 
   
   }
