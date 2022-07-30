@@ -15,7 +15,6 @@
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px;
-    border: 1px solid black;
 }
 
 .memory-card {
