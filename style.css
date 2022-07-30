@@ -7,20 +7,21 @@
 }
 
 .memory-game {
-    max-width: 400px;
+    max-width: 386px;
     max-height: 600px;
     margin: 0 auto;
     margin-top: 20px;
-    padding-left: 5px;
+    padding-left: 0px;
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px;
+    border: 1px solid black;
 }
 
 .memory-card {
     display: flex;
     font-size: 1rem;
-    width: 80px;
+    width: 90px;
     height: 95px;
     position: relative;
     margin: 3px;
